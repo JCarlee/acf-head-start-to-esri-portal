@@ -1,5 +1,5 @@
 # ACF Update Utility
-A Python-based utility to update the ACF Head Start data in a Geodatabase (GDB) using ArcPy and other libraries.
+A Python-based utility to update the ACF Head Start data in a Geodatabase (GDB) and Esri Portal.
 
 ## Author
 **John Carlee**
